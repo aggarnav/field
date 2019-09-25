@@ -1,8 +1,8 @@
 tdl.require('tdl.io');
 tdl.require('tdl.log');
 tdl.require('tdl.sync');
-
 // globals
+
 var g_syncManager;
 
 var g_viewSettingsIndex = 0;
